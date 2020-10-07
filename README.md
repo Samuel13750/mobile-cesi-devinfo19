@@ -1,6 +1,11 @@
  
 # 20201007
 
+## **création du trigramme**
+skc com.skc.app
+doc https://medium.com/@devesu/how-to-change-bundle-identifier-of-ios-app-and-package-name-of-android-app-within-react-native-app-4fbdd6679aa2
+
+
 ## **commit du projet dans le gitub**
 depuis le dossier racine du projet
 git init

@@ -129,7 +129,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.app_lc"
+        applicationId "com.skc.app_lc"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
