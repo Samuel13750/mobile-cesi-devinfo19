@@ -2,6 +2,9 @@
  
  ## **mise en forme**
 http://paletton.com/#uid=10h0u0kltl6uL0Xq4aYgSvjcmXT
+
+Récupération de la valeur du inputText dans article.
+Le tableau se charge des valeurs saisie dans inputText.
  
  # 20201007
 
