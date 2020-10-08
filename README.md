@@ -1,5 +1,9 @@
+ # 20201008
  
-# 20201007
+ ## **mise en forme**
+http://paletton.com/#uid=10h0u0kltl6uL0Xq4aYgSvjcmXT
+ 
+ # 20201007
 
 ## **création du trigramme**
 skc com.skc.app
