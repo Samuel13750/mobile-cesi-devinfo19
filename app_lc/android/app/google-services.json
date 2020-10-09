@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "26226920214",
+    "firebase_url": "https://mobile-cesi-19.firebaseio.com",
+    "project_id": "mobile-cesi-19",
+    "storage_bucket": "mobile-cesi-19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26226920214:android:3575422a81c421886cde37",
+        "android_client_info": {
+          "package_name": "com.skc.app_lc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26226920214-rl09mbk83gmfufhi4cm9or84l1ll3t6v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARu4gBW7c_0inCtw4ELLj00asVYRxNseI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26226920214-rl09mbk83gmfufhi4cm9or84l1ll3t6v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

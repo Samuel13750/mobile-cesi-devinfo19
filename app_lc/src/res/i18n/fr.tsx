@@ -1,6 +1,5 @@
 export default {
-    login:"Se connecter",
-    logout:"Se déconnecter",
-    welcome:"Bienvenue !",
-    logintxt: "Connexion",
+    title:"Liste des courses",
+    nameArticle:"saisir votre nom d'article",
+    nameButton:"Ajouter" 
 }

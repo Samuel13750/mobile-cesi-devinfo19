@@ -1,6 +1,5 @@
 export default {
-    login:"login",
-    logout:"logout",
-    welcome:"Welcome",
-    logintxt: "login",
+    title:"Shopping list",
+    nameArticle:"enter your item name",
+    nameButton:"Add" 
 }

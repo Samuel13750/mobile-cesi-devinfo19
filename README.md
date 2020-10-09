@@ -1,3 +1,27 @@
+ 
+ # 20201009
+
+ ## Obtention de la liste des articles.
+ {this.state.list.map(e => <Text style={styles.tdl2}>{e}</Text>)}
+
+
+ ## Reste à faire
+ - Lors de onPress : valider le TextIntput.
+                     "Vider" le texte du textInput.
+- Supprimer un article par slide -> suppression.
+- Sauvegarde de la list avec asyncStorage
+
+
+**Evolutions**
+- Ajouter une base de données.
+- Ajouter des images à l'article.
+- Créer des rayons pour chacun des articles.
+- Rechercher un magasin à proximité.
+- Saisie de l'article commande vocal. "Ajouter" - Nom de l'article - "A la liste des courses
+- Avoir la possibilité de plusieurs listes de courses en fonction d'une personne / d'un type de courses - alimentaire / bricolage / jardinage...
+ 
+ 
+ 
  # 20201008
  
  ## **mise en forme**
@@ -5,6 +29,7 @@ http://paletton.com/#uid=10h0u0kltl6uL0Xq4aYgSvjcmXT
 
 Récupération de la valeur du inputText dans article.
 Le tableau se charge des valeurs saisie dans inputText.
+
  
  # 20201007
 
